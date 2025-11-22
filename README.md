@@ -178,7 +178,7 @@ Pipeline:
 ## 5. Installation
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/Minta1234/AI-trade-test-only.git
 cd minta_ai_trader_full_v2
 
 # (Optional but recommended) create virtualenv
@@ -329,7 +329,7 @@ Typical behaviour:
 5. **Use AI in UI / live chart** (Streamlit app, if present):
 
    ```bash
-   streamlit run <your_streamlit_script>.py
+   streamlit run streamlit_app.py
    ```
 
 ---
