@@ -289,7 +289,7 @@ If you have a Streamlit script in this repo (e.g. a file that:
 You can run it like:
 
 ```bash
-streamlit run <your_streamlit_script>.py
+streamlit run streamlit_app.py
 ```
 
 Typical behaviour:
